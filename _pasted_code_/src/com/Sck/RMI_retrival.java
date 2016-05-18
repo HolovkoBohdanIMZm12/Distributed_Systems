@@ -1,0 +1,1 @@
+Registry registry = LocateRegistry.getRegistry(hostname, port)
