@@ -1,6 +1,5 @@
-Please, follow this steps:
-
-1. Open Branch named Seminar02, which is located near "New pull request" button
-2. Then you need to open folder: "Sockets"
-3. Then folder: "Sck"
-4. Finally, open files: "Implementation" and "Main"
+1. Open GitHub repository https://github.com/HolovkoBohdanIMZm12/Distributed_Systems.git 
+2. Choose Branch "Seminar01" 
+3. Open folder "Holovko_Bohdan"
+ 4. Go to src/main/java/snippet 
+5. Open Snippet.java 
