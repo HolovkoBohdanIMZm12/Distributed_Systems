@@ -1,4 +1,5 @@
 Follow this steps: 
+
 1.Open branch "Seminar04", which is located near "New pull request" 
 2. Then open folder "SOAP" 
 3. Open folder "com" 
